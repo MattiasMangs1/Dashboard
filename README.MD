@@ -67,9 +67,8 @@ De ger däremot möjligheter för vidareutveckling — t.ex. analyser av produkt
 Rapporten består av fyra huvudsidor:
 
 ### 1️⃣ Dalarnas näringsliv 2019–2024  
-<p align="center">
-<img src=".MattiasMangs1/Dashboard/bilder/Page1.png" width="80%" title="Dalarnas näringsliv 2019–2024 – översikt"/>
-</p>
+![Page1](bilder/Page1.png)
+
 
 
 **Frågor som besvaras:**  
@@ -80,7 +79,8 @@ Rapporten består av fyra huvudsidor:
 ---
 
 ### 2️⃣ Branschanalys 
-!['Page 2'](/Project_Dalarna/bilder/Page2.png)
+![Page2](bilder/Page2.png)
+
 
 
 **Frågor som besvaras:**  
@@ -91,7 +91,8 @@ Rapporten består av fyra huvudsidor:
 ---
 
 ### 3️⃣ Kommunanalys  
-!['Page 3'](/Project_Dalarna/bilder/Page3.png)
+![Page3](bilder/Page3.png)
+
 
 
 **Frågor som besvaras:**  
@@ -101,7 +102,7 @@ Rapporten består av fyra huvudsidor:
 ---
 
 ### 4️⃣ Finansiell hälsa  
-!['Page 4'](/Project_Dalarna/bilder/Page4.png)
+![Page4](bilder/Page4.png)
 
 **Frågor som besvaras:**  
 - Har företagen blivit mer kapitalstarka?  
@@ -137,6 +138,7 @@ Syftet är att kombinera företagsekonomisk förståelse med datadrivna verktyg 
 ## 🔗 Länkar
 
 - 📬 [LinkedIn – Mattias Mångs](https://www.linkedin.com/in/mattias-mangs/)  
+
 
 
 
