@@ -64,6 +64,9 @@ De ger däremot möjligheter för vidareutveckling — t.ex. analyser av produkt
 Rapporten består av fyra huvudsidor:
 
 ### 1️⃣ Dalarnas näringsliv 2019–2024  
+<p align="center">
+  <img src="./PowerBI/Screenshots/Page1.png" width="80%" title="Dalarnas näringsliv 2019–2024 – översikt"/>
+</p>
 !['Page 1'](/Project_Dalarna/bilder/Page1.png)
 
 **Frågor som besvaras:**  
@@ -131,4 +134,5 @@ Syftet är att kombinera företagsekonomisk förståelse med datadrivna verktyg 
 ## 🔗 Länkar
 
 - 📬 [LinkedIn – Mattias Mångs](https://www.linkedin.com/in/mattias-mangs/)  
+
 
