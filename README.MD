@@ -1,7 +1,14 @@
 # 📊 Dalarnas näringsliv 2019–2024  
 Ett Power BI-projekt som analyserar hur företagen i Dalarna utvecklats i omsättning, tillväxt och finansiell hälsa mellan 2019 och 2024.
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MattiasMangs1/Project_Dalarna/main/bilder/Page1.png" width="48%" title="Dalarnas näringsliv 2019–2024 – översikt"/>
+  <img src="https://raw.githubusercontent.com/MattiasMangs1/Project_Dalarna/main/bilder/Page2.png" width="48%" title="Branschanalys"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MattiasMangs1/Project_Dalarna/main/bilder/Page3.png" width="48%" title="Kommunanalys"/>
+  <img src="https://raw.githubusercontent.com/MattiasMangs1/Project_Dalarna/main/bilder/Page4.png" width="48%" title="Finansiell hälsa"/>
+</p>
 ---
 
 ## 🎯 Syfte
@@ -134,6 +141,7 @@ Syftet är att kombinera företagsekonomisk förståelse med datadrivna verktyg 
 ## 🔗 Länkar
 
 - 📬 [LinkedIn – Mattias Mångs](https://www.linkedin.com/in/mattias-mangs/)  
+
 
 
 
